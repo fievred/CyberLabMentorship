@@ -6,11 +6,15 @@ name: anonymous
 skip password
 enter ftp shell
 
+
+
 ![Image](https://github.com/user-attachments/assets/20df8d69-195d-41c1-8b3b-ab6ad6cbdd17)
 ![Image](https://github.com/user-attachments/assets/ad3a7d9e-df89-43a9-aa3e-8b4e1329a60b)
 
 While dated and unsecure, telnet allows for the connection to remover servers over TCP in the command line. Oftentimes, these plain text communications can be manipulated.
 telnet freechess.org
+
+
 
 ![Image](https://github.com/user-attachments/assets/29d25340-679a-418a-b3e6-3f7face263a2)
 
