@@ -42,3 +42,4 @@ Redeemer Box: Focus on databases, in this case: Redis. Redis was discovered to b
   select 0
   keys *
   get flag
+![Image](https://github.com/user-attachments/assets/d8877f94-c597-43df-a9e7-e5df22930388)
