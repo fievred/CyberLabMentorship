@@ -21,3 +21,8 @@ telnet freechess.org
 Smb allows for file sharing between Windows systems. Smbclient allows Linux systems to connect to those same shares. Similarly to FTP, certain nmap scan commands will automatically connect with vulnerable targets.
 smbclient -L {ip} -N
 enter smb shell
+
+
+Rsync allows files or directories to be transfered between machines via SSH.
+rsync  -av --dry-run {filename} user@host_ip:/path/to/transfer/machine/directory
+rsync -av {filename} user@host_ip:/path/to/transfer/machine/directory
